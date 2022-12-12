@@ -1,0 +1,14 @@
+.posts {
+    flex: 3;
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* .postImg {
+    width: 385px;
+    height: 280px;
+    object-fit: cover;
+    border-radius: 7px;
+} */
+
